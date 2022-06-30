@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Counter Application with API using React
+
+This is a small counter application with CRUD operation build using React
+
+Checkout Demo Here! - [Counter With API Demo](https://sumanhansada.github.io/counter-with-api/)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
